@@ -16,17 +16,17 @@ Repository ini berisi sebuah CV yang dikembangkan dengan kode sederhana mengguna
 ```
 tugas-cv/
 │
-├── cv_mirawati/             # Folder berisi file CV Mirawati
+├── cv_mirawati/             # Folder CV Mirawati
 │   ├── index.html
 │   ├── styles.css
 │   └── mirawati.jpg
 │
-├── cv_saskia/               # Folder berisi file CV Saskia
+├── cv_saskia/               # Folder CV Saskia
 │   ├── cv_saskia.html
 │   ├── styles.css
 │   └── saskia.jpg
 │
-├── index.html               # Halaman utama
+├── index.html               
 └── README.md                # Dokumentasi repository
 ```
 
