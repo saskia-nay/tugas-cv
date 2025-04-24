@@ -12,3 +12,22 @@ Repository ini berisi sebuah CV yang dikembangkan dengan kode sederhana mengguna
 
 
 # 🗂️ Struktur Repository
+
+```
+tugas-cv/
+│
+├── cv_mirawati/             # Folder berisi file CV Mirawati
+│   ├── index.html
+│   ├── styles.css
+│   └── mirawati.jpg
+│
+├── cv_saskia/               # Folder berisi file CV Saskia
+│   ├── cv_saskia.html
+│   ├── styles.css
+│   └── saskia.jpg
+│
+├── index.html               # Halaman utama
+└── README.md                # Dokumentasi repository
+```
+
+
