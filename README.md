@@ -11,7 +11,7 @@ Repository ini berisi sebuah CV yang dikembangkan dengan kode sederhana mengguna
 
 
 
-# 🗂️ Struktur Repository
+# 📂 Struktur Repository
 
 ```
 tugas-cv/
